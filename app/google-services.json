@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237631662311",
+    "project_id": "vaksin-17e10",
+    "storage_bucket": "vaksin-17e10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237631662311:android:983b9a3beb6d92e0421a42",
+        "android_client_info": {
+          "package_name": "com.example.vaksin_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNLQTQRqP2BugGtUMyBGlAbPyMq5gxNtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
